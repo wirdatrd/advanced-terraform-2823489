@@ -1,6 +1,7 @@
 *.terraform
 *.pem
 *.tfvars
+*.backup
 *.tfplan
 *.tfstate
 *.tfstate.backup
@@ -8,3 +9,4 @@
 .terraform
 .DS_Store
 commands.txt
+**/.terraform.lock.hcl
